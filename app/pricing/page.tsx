@@ -182,7 +182,7 @@ export default function Page() {
                 },
                 {
                   title: "what's included",
-                  description: "professional photography, expert direction, basic retouching (blemishes, stray hairs, skin smoothing), and easy online delivery.",
+                  description: "professional photography, expert direction, basic retouching, color correction & culling, and easy online delivery.",
                 },
                 {
                   title: "additional options",
