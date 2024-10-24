@@ -28,7 +28,7 @@ export default function Page() {
       Add-ons:
       ${addons.filter(addon => addon.checked).map(addon => `- ${addon.label} — ${addon.price}`).join('\n')}
 
-      Please let me know the next steps to confirm the booking and arrange payment.
+      Please let me know the next steps to confirm the booking.
 
       Thank you,
     `);
