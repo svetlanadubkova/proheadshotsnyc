@@ -3,10 +3,6 @@
 import Link from 'next/link'
 import { useState } from 'react'
 
-export const metadata = {
-  title: 'headshots by lana dubkova',
-  description: 'nyc headshots | brooklyn & manhattan',
-}
 
 type Tier = {
   title: string;
